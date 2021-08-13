@@ -14,7 +14,7 @@ author: Tânia Reis
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Our Lab: "aboutourlab"
+  About Our Lab: "aboutthelab"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
